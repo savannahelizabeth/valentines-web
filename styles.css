@@ -1,0 +1,32 @@
+* {
+    
+}
+
+#grad {
+  background-image: linear-gradient(to bottom right,hotpink, white);
+}
+
+.heading {
+    color: rgb(218, 64, 90);
+    font-size:7vw;
+    text-align: center;
+    border: solid;
+    border-color:lavender;
+    border-radius: 70px;
+    border-width: 15px;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.heading2 {
+    color:rgb(218, 64, 90);
+    text-align:center;
+    font-size:4vw;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 2vw;
+    font-family: 'Luckiest Guy', cursive;
+}
+
